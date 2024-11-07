@@ -1,0 +1,11 @@
+F:\ITI\Calc\bin\Debug\Calc.exe.config
+F:\ITI\Calc\bin\Debug\Calc.exe
+F:\ITI\Calc\bin\Debug\Calc.pdb
+F:\ITI\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+F:\ITI\Calc\obj\Debug\Calc.Properties.Resources.resources
+F:\ITI\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+F:\ITI\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+F:\ITI\Calc\obj\Debug\Calc.exe
+F:\ITI\Calc\obj\Debug\Calc.pdb
+F:\ITI\Calc\obj\Debug\Calc.Login.resources
+F:\ITI\Calc\obj\Debug\Calc.Home.resources
